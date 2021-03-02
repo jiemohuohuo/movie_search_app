@@ -1,0 +1,2 @@
+# movie_search_app
+构建这个应用程序可以让你更进一步掌握React以及新兴的Hooks API。项目利用了React组件、许多钩子、一个外部API、当然还有一些CSS样式
